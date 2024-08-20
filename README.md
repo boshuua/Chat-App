@@ -35,10 +35,6 @@ The app uses Flet's WebSocket API to establish real-time communication between c
 
 Contributions are welcome! If you'd like to contribute to the project, please fork the repository and submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-
 ## Acknowledgments
 
 * Flet framework: [https://flet.dev](https://flet.dev)
