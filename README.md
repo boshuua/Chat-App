@@ -22,7 +22,7 @@ This repository contains a simple chat application built using Python and the Fl
 
 ### Running the App
 
-1. Clone the repository: `git clone https://github.com/boshuua/chat-app-flet.git`
+1. Clone the repository: `git clone https://github.com/boshuua/Chat-App.git`
 2. Install the dependencies: `pip install -r requirements.txt`
 3. Direct the directory to look at the .venv folder `.venv\Scripts\activate`
 4. Run the app: `flet run --web <the directory used to store git repo>`
